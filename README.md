@@ -34,13 +34,14 @@ ML Camera is an application which has text recognition and object recognition fu
   *	If the recognized text is important and the user wants to save this in the app, the “Save Text” button can be used to
     save the text
   *	The image view shows the image captured from camera.
-•	Saved Text View:
-o	The user can read the saved text in the app by tapping the “Saved Text” button on the home view.
-o	In the saved text view, each row represents the saved text. 
-o	User can tap on the row to see the saved text. 
-o	The user can delete the saved text in the Saved text view by left swipe on the row.
-•	Object Recognition View:
-o	In this view, the user can capture image using “Open Camera” button and the object will be recognized by the “Inception V3” ML model. The object description will be shown in the view along with the image.
+*	Saved Text View:
+  *	The user can read the saved text in the app by tapping the “Saved Text” button on the home view.
+  *	In the saved text view, each row represents the saved text. 
+  *	User can tap on the row to see the saved text. 
+  *	The user can delete the saved text in the Saved text view by left swipe on the row.
+*	Object Recognition View:
+  *	In this view, the user can capture image using “Open Camera” button and the object will be recognized by the “Inception
+    V3” ML model. The object description will be shown in the view along with the image.
 
 
 
