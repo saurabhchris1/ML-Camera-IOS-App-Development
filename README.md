@@ -47,21 +47,22 @@ ML Camera is an application which has text recognition and object recognition fu
 
 
 
-IOS functionality Used:
+## IOS functionality Used:
 
-•	TesseractOCRSDKiOS used for text recognition.
-•	IOS CreateML and CoreML will be used for text sentiment classification and image object detection. Used CreateML to train the text sentiment model.
-o	https://developer.apple.com/documentation/createml/creating_a_text_classifier_model
-o	http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/ Movie review dataset used to train the model.
-•	IOS table view for displaying saved recognized text by user.
-•	Core Data for CRUD.
-•	Segue between views.
-•	Camera functionality.
-•	Natural Language for text sentimental analysis.
-•	Alerts used for showing that the text is saved in the database and for sentiments result.
-•	Used Cocoa Pods to add TesseractOCRSDKiOS  https://cocoapods.org/pods/TesseractOCRSDKiOS
+*	TesseractOCRSDKiOS used for text recognition.
+*	IOS CreateML and CoreML will be used for text sentiment classification and image object detection. Used CreateML to train
+  the text sentiment model.
+  *	https://developer.apple.com/documentation/createml/creating_a_text_classifier_model
+  *	http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/ Movie review dataset used to train the model.
+*	IOS table view for displaying saved recognized text by user.
+*	Core Data for CRUD.
+*	Segue between views.
+*	Camera functionality.
+*	Natural Language for text sentimental analysis.
+*	Alerts used for showing that the text is saved in the database and for sentiments result.
+*	Used Cocoa Pods to add TesseractOCRSDKiOS  https://cocoapods.org/pods/TesseractOCRSDKiOS
 
 
-Note: 
-•	To disable keyboard after typing, tap anywhere on screen expect keyboard. 
-•	For find location feature the text needs to be properly edited. Try to edit the text if it doesn’t work and try again.
+## Note: 
+*	To disable keyboard after typing, tap anywhere on screen expect keyboard. 
+*	For find location feature the text needs to be properly edited. Try to edit the text if it doesn’t work and try again.
