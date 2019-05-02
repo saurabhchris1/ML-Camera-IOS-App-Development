@@ -8,13 +8,13 @@ Application Name: ML Camera
 *	Swift 5 and XCode Version 10.2.1
 
 
-##Description: 
+## Description: 
 ML Camera is an application which has text recognition and object recognition functionality.
 
-##How to Use the application?
+## How to Use the application?
 
-*To open the project use “ML Camera.xcworkspace” to open and not ML Camera.xcodeproj
- *The home view of app has 3 buttons to choose functionality.
+* To open the project use “ML Camera.xcworkspace” to open and not ML Camera.xcodeproj
+  * The home view of app has 3 buttons to choose functionality.
 o	Text Recognition: To enter the text recognition view
 o	Saved Text: To save the text recognized from text recognition
 o	Object Recognition: To recognize the object in the captured image.
