@@ -14,19 +14,26 @@ ML Camera is an application which has text recognition and object recognition fu
 ## How to Use the application?
 
 * To open the project use “ML Camera.xcworkspace” to open and not ML Camera.xcodeproj
-  * The home view of app has 3 buttons to choose functionality.
-o	Text Recognition: To enter the text recognition view
-o	Saved Text: To save the text recognized from text recognition
-o	Object Recognition: To recognize the object in the captured image.
-•	Text Recognition View:
-o	In this view there are buttons to perform various functions.
-o	The first button is “Take Image from Camera”. Use this button to capture image of text using camera.
-o	Second button is “Recognize text” which is initially inactive. This button enables after the image is captured using first button. Use this button to generate text from captured image. On tap of this button the recognized text will appear in the Text View box. 
-o	Text View: On tap in the text view you can edit the text. It is useful when the algorithms adds some unknown text as symbols in the text view.
-o	After the text is edited in the text view, the “Find Sentiments” button can be used to find the sentiments in the text. (This is useful only for movie reviews as the model is trained on movie review dataset). 
-o	If the recognized text in the text view is an address of any place, then the button “Find Location from Text” can be used to find the location in the google. (The text needs to be proper in order to work with this feature. Try to edit the code if it doesn’t work and try again)
-o	If the recognized text is important and the user wants to save this in the app, the “Save Text” button can be used to save the text
-o	The image view shows the image captured from camera.
+* The home view of app has 3 buttons to choose functionality.
+  *	Text Recognition: To enter the text recognition view
+  *	Saved Text: To save the text recognized from text recognition
+  *	Object Recognition: To recognize the object in the captured image.
+*	Text Recognition View:
+  *	In this view there are buttons to perform various functions.
+  *	The first button is “Take Image from Camera”. Use this button to capture image of text using camera.
+  *	Second button is “Recognize text” which is initially inactive. This button enables after the image is captured using first
+    button. Use this button to generate text from captured image. On tap of this button the recognized text will appear in the
+  * Text View box. 
+  *	Text View: On tap in the text view you can edit the text. It is useful when the algorithms adds some unknown text as
+    symbols in the text view.
+  *	After the text is edited in the text view, the “Find Sentiments” button can be used to find the sentiments in the text.
+    (This is useful only for movie reviews as the model is trained on movie review dataset). 
+  *	If the recognized text in the text view is an address of any place, then the button “Find Location from Text” can be used
+    to find the location in the google. (The text needs to be proper in order to work with this feature. Try to edit the code
+    if it doesn’t work and try again)
+  *	If the recognized text is important and the user wants to save this in the app, the “Save Text” button can be used to
+    save the text
+  *	The image view shows the image captured from camera.
 •	Saved Text View:
 o	The user can read the saved text in the app by tapping the “Saved Text” button on the home view.
 o	In the saved text view, each row represents the saved text. 
