@@ -2,11 +2,10 @@
 
 Application Name: ML Camera 
 
-
-##Compatibility:  	
-•	IOS 12
-•	I-phone 8 and onwards (Does not works on Simulators)
-•	Swift 5 and XCode Version 10.2.1
+## Compatibility:  	
+* IOS 12
+*	I-phone 8 and onwards (Does not works on Simulators)
+*	Swift 5 and XCode Version 10.2.1
 
 
 ##Description: 
