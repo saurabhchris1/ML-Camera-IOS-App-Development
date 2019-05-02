@@ -1,0 +1,16 @@
+PODS:
+  - TesseractOCRSDKiOS (4.0.1)
+
+DEPENDENCIES:
+  - TesseractOCRSDKiOS (= 4.0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - TesseractOCRSDKiOS
+
+SPEC CHECKSUMS:
+  TesseractOCRSDKiOS: 2a12b0c67b9ac5b1689a8e1bfc1d34b603f2a28a
+
+PODFILE CHECKSUM: d7f9e99356a649952127e9b4b896e76fc39edda7
+
+COCOAPODS: 1.6.1
